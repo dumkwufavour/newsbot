@@ -1,0 +1,9 @@
+.env
+/Lib
+/Include
+pyvenv.cfg
+Scripts
+/__pycache__
+api.log
+network.log
+posted_articles.txt
